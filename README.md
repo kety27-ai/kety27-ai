@@ -1,68 +1,124 @@
-## Hi, I'm Ketlyn Mendes! 👋
+<!-- PROFILE HEADER --><div align="center">KETLYN MENDES
 
-Information Technology Technician | Aspiring Software Engineer | AI Enthusiast
+SOFTWARE DEVELOPMENT · ARTIFICIAL INTELLIGENCE · GENERATIVE AI
 
-I'm an Information Technology Technician interested in software development, Artificial Intelligence and Generative AI.
+Building my foundation in technology, developing practical solutions and exploring the potential of Artificial Intelligence.
 
-I enjoy learning new technologies, solving problems and building solutions that can make people's lives easier.
+<br /><a href="https://github.com/kety27-ai">
+  <img src="https://img.shields.io/badge/GitHub-kety27--ai-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/ketlyn-mendes-23a1633a8/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a></div>---
 
-Currently, I'm focused on improving my programming skills and exploring the possibilities of AI in software development.
+👩‍💻 About Me
 
-🎓 Education
+I'm an Information Technology Technician from Brazil, interested in Software Engineering, Artificial Intelligence and Generative AI.
 
-- Technical Degree in Information Technology — Escola Técnica de Ceilândia (2026)
-- High School — Expected completion: 2026
+My technical education gave me practical experience in web development, including frontend and backend development, database management and collaborative software projects.
 
-💻 Technologies & Tools
+I enjoy understanding how technology works, solving problems and transforming ideas into useful applications.
 
-Languages and Web Development
+I'm currently focused on strengthening my programming fundamentals and expanding my knowledge of AI-powered solutions.
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
+- 🎓 Information Technology Technician — Escola Técnica de Ceilândia
+- 💻 Experience with web development and relational databases
+- 🤖 Interested in Artificial Intelligence and Generative AI
+- 🌱 Continuously learning and improving my technical skills
+- 🤝 Experience working collaboratively on academic projects
 
-Currently Learning
+---
+
+🛠️ Technologies & Tools
+
+Languages & Web Development
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</div>Database
+
+<div>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</div>Currently Exploring
 
 - Python
-- Artificial Intelligence
-- Generative AI
 - API integration
+- Artificial Intelligence fundamentals
+- Generative AI
+- AI-powered applications
+
+---
 
 🚀 Featured Project
 
-GranBoi — Livestock Management System
+🐄 GranBoi — Livestock Management System
 
-A group project developed as part of my technical education.
+A collaborative web application developed as part of my Information Technology technical education.
 
-GranBoi was created to help address challenges in livestock management, making everyday activities easier for farmers and rural workers.
+The project addresses challenges in livestock management, aiming to help rural workers organize information and manage everyday activities more efficiently.
 
 Main features:
 
 - Animal registration and tracking
-- Weight history and daily weight gain monitoring
+- Weight records and daily weight gain monitoring
 - Vaccination and health management
-- Financial management
+- Financial records and management
 
-Technologies: HTML, CSS, JavaScript, PHP and MySQL.
+Technology stack:
 
-I participated in both frontend and backend development, collaborating with my team throughout the project.
+"HTML" "CSS" "JavaScript" "PHP" "MySQL"
 
-"View GranBoi on GitHub" (https://github.com/kldlx/GranBoi)
+My contribution:
 
-🌱 What I'm Working Towards
+I participated in both frontend and backend development, collaborating with the team throughout the development process. The project helped me strengthen my understanding of web development, databases, teamwork and problem-solving.
 
-- Improving my software development skills.
-- Learning Python and AI fundamentals.
-- Exploring Generative AI and AI-powered applications.
-- Building projects that solve real-world problems.
+<div align="center"><a href="https://github.com/kldlx/GranBoi">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>---
 
-📫 Connect with Me
+🎓 Education
 
-- GitHub: "@kety27-ai" (https://github.com/kety27-ai)
-- LinkedIn: https://www.linkedin.com/in/ketlyn-mendes-23a1633a8?utm_source=share_via&utm_content=profile&utm_medium=member_android.
+Education| Institution| Status
+Technical Degree in Information Technology| Escola Técnica de Ceilândia| Completed — 2026
+High School| Brazil| Expected completion — 2026
 
 ---
 
-Always learning, building and improving.
+🌱 Currently Learning & Goals
+
+I'm building my knowledge in two areas that I believe work together:
+
+Software Development
+
+- Strengthening programming logic
+- Improving web development skills
+- Learning Python
+- Understanding APIs and software architecture
+
+Artificial Intelligence
+
+- Understanding AI fundamentals
+- Exploring Generative AI
+- Learning how AI models can be integrated into applications
+- Developing practical projects involving AI
+
+My goal is to grow as a software developer and learn how to build useful, reliable and intelligent technological solutions.
+
+---
+
+💼 Beyond Technology
+
+I also have experience teaching English to children.
+
+This experience has helped me develop communication, organization, patience and the ability to explain ideas clearly.
+
+I believe these skills are valuable in collaborative environments and software development teams.
+
+---
+
+📊 GitHub Statistics
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=kety27-ai&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kety27-ai&layout=compact&theme=github_dark&hide_border=true"/></div>---
+
+<div align="center">"Always learning. Always building. Always improving."
+
+</div>
