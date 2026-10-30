@@ -4,11 +4,18 @@ SOFTWARE DEVELOPMENT · ARTIFICIAL INTELLIGENCE · GENERATIVE AI
 
 Building my foundation in technology, developing practical solutions and exploring the potential of Artificial Intelligence.
 
-<br /><a href="https://github.com/kety27-ai">
-  <img src="https://img.shields.io/badge/GitHub-kety27--ai-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/ketlyn-mendes-23a1633a8/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></div>---
+
+<div align="center">
+
+<a href="https://github.com/kety27-ai">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/ketlyn-mendes-23a1633a8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div
+
 
 👩‍💻 About Me
 
@@ -113,12 +120,3 @@ This experience has helped me develop communication, organization, patience and 
 
 I believe these skills are valuable in collaborative environments and software development teams.
 
----
-
-📊 GitHub Statistics
-
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=kety27-ai&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kety27-ai&layout=compact&theme=github_dark&hide_border=true"/></div>---
-
-<div align="center">"Always learning. Always building. Always improving."
-
-</div>
